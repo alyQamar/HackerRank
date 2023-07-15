@@ -6,9 +6,9 @@ My solutions to various SQL problems on [HackerRank](https://www.hackerrank.com/
 
 #### Basic Select
 
-| Number |            Title            | Difficulty |                                Solution                                | Notes |
-| :----: | :-------------------------: | :--------: | :--------------------------------------------------------------------: | :---: |
-|   1    | Revising the Select Query I |    Easy    | [MS SQL](./1-Basic-Select/01-Revising-the-Select-Query-I/Solution.sql) |       |
+| Number |                                              Title                                              | Difficulty |                                Solution                                | Notes |
+| :----: | :---------------------------------------------------------------------------------------------: | :--------: | :--------------------------------------------------------------------: | :---: |
+|   1    | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/) |    Easy    | [MS SQL](./1-Basic-Select/01-Revising-the-Select-Query-I/Solution.sql) |       |
 
 ## Structure
 
