@@ -1,6 +1,6 @@
 <!-- Question Link -->
 
-## [7. The Blunder](https://www.hackerrank.com/challenges/the-blunder/)
+# [7. The Blunder](https://www.hackerrank.com/challenges/the-blunder/)
 
 <!-- Difficulty -->
 
@@ -16,27 +16,34 @@ _Write a query calculating the amount of error_ (i.e.: average monthly salaries)
 
 <!-- Input Section -->
 
-**Input Format**
-The `EMPLOYEES ` tables is described as follows:
+## Input Format
 
-![EMPLOYEES Table](https://s3.amazonaws.com/hr-challenge-images/12893/1443817108-adc2235c81-1.png)
+The `EMPLOYEES ` tables is described as follows:<br>
 
-**Note**: Salary is per month.
+![EMPLOYEES Table](https://s3.amazonaws.com/hr-challenge-images/12893/1443817108-adc2235c81-1.png)<br>
 
-**Constraints**
+## Note
+
+Salary is per month.
+
+## Constraints
+
 1000 < Salary <100000
 
-**Sample Input**
-![Example Table](https://s3.amazonaws.com/hr-challenge-images/12893/1443817161-299cc6eb7f-2.png)
+## Sample Input
+
+![Example Table](https://s3.amazonaws.com/hr-challenge-images/12893/1443817161-299cc6eb7f-2.png)<br>
 
 <!-- Output Section -->
 
-**Sample Output**
+## Sample Output
+
 `2061`
 
-**Explanation**
-The table below shows the salaries without zeros as they were entered by Samantha:
-![Explanation table](https://s3.amazonaws.com/hr-challenge-images/12893/1443817229-eb00d44a3b-3.png)
+## Explanation
+
+The table below shows the salaries without zeros as they were entered by Samantha:<br>
+![Explanation table](https://s3.amazonaws.com/hr-challenge-images/12893/1443817229-eb00d44a3b-3.png)<br>
 
 Samantha computes an average salary of `98.00`. The actual average salary is `21590.00` .
 

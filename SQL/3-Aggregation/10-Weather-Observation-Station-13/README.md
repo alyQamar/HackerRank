@@ -1,6 +1,6 @@
 <!-- Question Link -->
 
-## [10. Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/)
+# [10. Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/)
 
 <!-- Difficulty -->
 
@@ -14,9 +14,10 @@ _Query the sum of Northern Latitudes_ (LAT_N) from `STATION` having values great
 
 <!-- Input Format -->
 
-**Input Format**
-The `STATION ` tables is described as follows:
+## Input Format
 
-![STATION Table](https://s3.amazonaws.com/hr-challenge-images/9336/1449345840-5f0a551030-Station.jpg)
+The `STATION ` tables is described as follows:<br>
+
+![STATION Table](https://s3.amazonaws.com/hr-challenge-images/9336/1449345840-5f0a551030-Station.jpg)<br>
 
 where LAT_N is the northern latitude and LONG_W is the western longitude.
