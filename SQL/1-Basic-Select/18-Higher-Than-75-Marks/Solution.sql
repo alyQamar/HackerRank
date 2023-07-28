@@ -1,3 +1,5 @@
+language: tsql
+----------------------------------------------------------------
 Select Name
 From STUDENTS 
 Where Marks >75

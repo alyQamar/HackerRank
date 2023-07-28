@@ -1,3 +1,5 @@
+language: tsql
+----------------------------------------------------------------
 -- method #1
 Select distinct CITY
 From STATION

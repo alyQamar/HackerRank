@@ -1,3 +1,5 @@
+language: tsql
+----------------------------------------------------------------
 Select Cast(LONG_W as Decimal(10,4))
 From STATION 
 Where LAT_N 

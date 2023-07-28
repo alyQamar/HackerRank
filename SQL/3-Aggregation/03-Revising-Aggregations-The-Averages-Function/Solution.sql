@@ -1,3 +1,5 @@
+language: tsql
+----------------------------------------------------------------
 -- method #1
 Select Avg(population)
 From CITY 
